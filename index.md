@@ -8,4 +8,4 @@ I am student at Soch College of IT
 [Github](https://github.com/gaulove)
 [Kaggle](https://www.kaggle.com/gauravneupane)
 
-## My email id ngaurav456@gmail.com
+## My email id: ngaurav456@gmail.com
